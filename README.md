@@ -1,1 +1,3 @@
-Live version: https://master.d2q3qpeaitvlgw.amplifyapp.com/
+Live version: https://rebuilding-control-de-presupuesto-udemy-react-course.netlify.app/
+
+Original repo: https://github.com/juanpablogdl/presupuesto_react
